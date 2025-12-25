@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ymknlib_Various")(type "KiCad")(uri "${KIPRJMOD}/../lib/external/ymknlibs/Various/ymknlib_Various.pretty")(options "")(descr ""))
+  (lib (name "STM32F072CBx")(type "KiCad")(uri "${KIPRJMOD}/lib/STM32F072CBx.pretty")(options "")(descr ""))
+  (lib (name "ymknlib_Switch_MX_GLP3")(type "KiCad")(uri "${KIPRJMOD}/../lib/external/ymknlibs/Switch/ymknlib_Switch_MX_GLP3.pretty")(options "")(descr ""))
+  (lib (name "ymknlibs-nonfree-logo")(type "KiCad")(uri "${KIPRJMOD}/../lib/external/ymknlibs-nonfree/ymknlibs-nonfree-logo.pretty")(options "")(descr ""))
+)
